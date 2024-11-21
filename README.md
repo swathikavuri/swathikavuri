@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **vuejs, reactnative and docker, kubernetes.**
 
-- 👯 I’m looking to collaborate on **a AI/ML project.**
+<!-- - 👯 I’m looking to collaborate on **a AI/ML project.** -->
 
 - 💬 Ask me about **Full Stack Development.**
 
