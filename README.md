@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Swathi Kavuri</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **vuejs, reactnative and docker, kubernetes.**
+- 🌱 I’m currently learning **Vue.js, Next.js, React Native and Docker, Kubernetes.**
 
 <!-- - 👯 I’m looking to collaborate on **a AI/ML project.** -->
 
